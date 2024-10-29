@@ -64,7 +64,7 @@ a:hover {
 	transition: all 0.8s ease-in-out;
 }
 .top_newsletter_link ul li:hover{
-	background-color: rgb(56, 84, 223);
+	background-color: rgb(66, 133, 244);
 }
 .top_newsletter_link ul li:first-child{
 	border-right:1px solid rgb(255, 255, 255, 0.2);
@@ -90,7 +90,7 @@ a:hover {
 	padding: 25px 0 25px;
 }
 .menu_bottom {
-	background-color: rgb(56, 84, 223);
+	background-color: rgb(66, 133, 244);
 }
 .logo {
 	text-align: center;
@@ -190,7 +190,7 @@ a:hover {
 .menu-links {
 	display: none;
 	position: absolute;
-	background-color: rgb(56, 84, 223);
+	background-color: rgb(66, 133, 244);
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 	z-index: 999;
 	width: 190px;
@@ -396,7 +396,7 @@ ul.main_menu {
 	color: #fff;
 	text-transform: capitalize;
 	text-align: center;
-	background-color: rgb(56, 84, 223);
+	background-color: rgb(66, 133, 244);
 	padding: 5px 5px;
 	margin-bottom: 0;
 	max-width: 100%;
@@ -659,7 +659,7 @@ section p {
 	color: #fff;
 	text-transform: capitalize;
 	text-align: center;
-	background-color: rgb(56, 84, 223);
+	background-color: rgb(66, 133, 244);
 	padding: 5px 5px;
 	margin-bottom: 0;
 	max-width: 100%;
@@ -975,7 +975,7 @@ section p {
   	-moz-transition: all 0.8s ease-in-out;
   	-ms-transition: all 0.8s ease-in-out;
   	-o-transition: all 0.8s ease-in-out;
-  	background-color: rgb(56, 84, 223);
+  	background-color: rgb(66, 133, 244);
   	overflow: hidden;
   	z-index: 1;
   	text-transform: uppercase;
@@ -1270,7 +1270,7 @@ section p {
 	-moz-transition: all 0.8s ease-in-out;
 	-ms-transition: all 0.8s ease-in-out;
 	-o-transition: all 0.8s ease-in-out;
-	background-color: rgb(56, 84, 223);
+	background-color: rgb(66, 133, 244);
 	overflow: hidden;
 	z-index: 1;
 	text-transform: uppercase;
@@ -1458,7 +1458,7 @@ section p {
 }
 .tabs label:hover {
 	color: #fff;
-	background-color: rgb(56, 84, 223);
+	background-color: rgb(66, 133, 244);
 }
 .tabs label a {
 	color: #FFF;
@@ -1519,7 +1519,7 @@ section p {
 }
 .tabs input[type="radio"]:checked + label {
 	color: #fff;
-	background-color: rgb(56, 84, 223);
+	background-color: rgb(66, 133, 244);
 }
 .tabs input[type="radio"]:checked + label + .tab {
 	display: block;
@@ -1653,7 +1653,7 @@ section p {
   	-moz-transition: all 0.8s ease-in-out;
   	-ms-transition: all 0.8s ease-in-out;
   	-o-transition: all 0.8s ease-in-out;
-  	background-color: rgb(56, 84, 223);
+  	background-color: rgb(66, 133, 244);
   	overflow: hidden;
   	z-index: 1;
   	text-transform: uppercase;
@@ -1853,7 +1853,7 @@ section p {
 	position: relative;
 }
 .footer_bottom {
-	background-color: rgb(56, 84, 223);
+	background-color: rgb(66, 133, 244);
 	padding: 10px 0;
 	position: relative;
 }
