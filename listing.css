@@ -659,7 +659,7 @@ section p {
 	color: #fff;
 	text-transform: capitalize;
 	text-align: center;
-	background-color: rgb(153, 0, 0);
+	background-color: rgb(0, 0, 0);
 	padding: 5px 5px;
 	margin-bottom: 0;
 	max-width: 100%;
@@ -975,7 +975,7 @@ section p {
   	-moz-transition: all 0.8s ease-in-out;
   	-ms-transition: all 0.8s ease-in-out;
   	-o-transition: all 0.8s ease-in-out;
-  	background-color: rgb(200, 35, 51);
+  	background-color: rgb(27, 0, 255);
   	overflow: hidden;
   	z-index: 1;
   	text-transform: uppercase;
@@ -1270,7 +1270,7 @@ section p {
 	-moz-transition: all 0.8s ease-in-out;
 	-ms-transition: all 0.8s ease-in-out;
 	-o-transition: all 0.8s ease-in-out;
-	background-color: rgb(200, 35, 51);
+	background-color: rgb(27, 0, 255);
 	overflow: hidden;
 	z-index: 1;
 	text-transform: uppercase;
@@ -1458,7 +1458,7 @@ section p {
 }
 .tabs label:hover {
 	color: #fff;
-	background-color: rgb(200, 35, 51);
+	background-color: rgb(27, 0, 255);
 }
 .tabs label a {
 	color: #FFF;
