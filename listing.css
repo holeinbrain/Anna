@@ -190,7 +190,7 @@ a:hover {
 .menu-links {
 	display: none;
 	position: absolute;
-	background-color: rgb(200, 35, 51);
+	background-color: rgb(27, 0, 255);
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 	z-index: 999;
 	width: 190px;
@@ -396,7 +396,7 @@ ul.main_menu {
 	color: #fff;
 	text-transform: capitalize;
 	text-align: center;
-	background-color: rgb(153, 0, 0);
+	background-color: rgb(0, 0, 0);
 	padding: 5px 5px;
 	margin-bottom: 0;
 	max-width: 100%;
